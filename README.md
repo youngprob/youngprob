@@ -1,4 +1,4 @@
-## Hi, , I'm Vaishwitha! 
+## Hi, I'm Vaishwitha! 
 I’m a student at Indian Institute of Technology Dharwad, passionate about building meaningful and user-friendly web experiences.
 As a web developer with a growing interest in UI/UX design, I love blending functionality with aesthetics
 
