@@ -17,7 +17,6 @@ As a web developer with a growing interest in UI/UX design, I love blending func
 -Always curious to learn new tools and frameworks
 
 -Former Badminton Secretary at IIT Dharwad — so yes, I’m equally serious about smashes and clean code!
-📫 Let’s Connect
 
 Feel free to reach out for collaborations, design discussions, or even a friendly badminton match.
 <!--
